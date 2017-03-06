@@ -1,0 +1,15 @@
+&CTLPARAMS
+data_path   = ""          ,
+wind_path   = "./forcing/",
+TITLE       = "global_ncep"    ,
+CISTIME     = "20090101"     ,
+CIETIME     = "20090601"     ,
+COOLS_DAYS  = 0 ,
+DELTTM      = 15     ,
+WNDFREQ     = 6    ,
+WNDTYPE     = 3    ,
+OUTFLAG     = 3    ,
+WIOFREQ     = 24    ,
+CIOFREQ     = 24    ,
+RSTFREQ     = 24    
+/
